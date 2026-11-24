@@ -8,4 +8,4 @@ Done: single-page site — hero with before/after slider, stats, 4 services + Ho
 3. Exact service area (only Almaty?), typical lead times, payment terms.
 4. Permission to show HoReCa client names (Люксор, Lanzhou kafe) — currently not named on the site.
 5. Better photos: a few wide shots of the workshop and finished interiors would strengthen the hero/projects.
-6. GitHub repo + Vercel — not created yet.
+6. Vercel — not set up yet (GitHub: plvn-code/inpiris, public).
